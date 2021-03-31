@@ -3,6 +3,7 @@
 Benchmark of storing `proto` and `json` on redis 🥊
 
 > `docker-compose up`
+> 
 > `go test ./... -bench=.`
 
 ```
